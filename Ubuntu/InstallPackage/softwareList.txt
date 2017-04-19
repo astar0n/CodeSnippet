@@ -8,3 +8,5 @@
 8] Indicator-Speed
 9] TLP
 10] Thermald
+11] Nodejs
+12] npm
