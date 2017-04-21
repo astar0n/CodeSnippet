@@ -1,7 +1,7 @@
 base, both stated and implicit. then there are social and psychological issues concerning the interactions among groups of people who
 are confined in an alien environment for a prolonged period. all of these factors interact with the more common issues
 of designing a habitat for working, eating, socializing and sleeping resulting in a design problem of considerable complexity. this paper
-will focus for its example on the specific project of developing a computer system for lunar habitat design, a primary
+will focus for its example on the specific project of developing a computer system for lunar habitat design. a primary
 concern will be to fashion the system so that it supports the intuitive powers of human designers. that is, the
 system will not be intended to replace the human designer, as has been the goal in traditional artificial intelligence and
 expert systems. at the same time, it should not simply provide computational power that is tangential to the process of
@@ -13,7 +13,7 @@ declared in his dilemmas in a general theory of planning that "planning problems
 that characteristic of planning and design tasks that has subsequently become the central source of perplexity in trying to imagine
 a computer system that can effectively support the challenging aspects of design. for, computer programs have traditionally been devised in
 accordance with the classical paradigm of "tame" science and engineering problems precisely the paradigm that rittel argued is not applicable
-to the problems of open societal systems with which planners and designers are generally concerned, this paradigm assumes that a
+to the problems of open societal systems with which planners and designers are generally concerned. this paradigm assumes that a
 problem can first be formulated in a clear, unambiguous and exhaustive manner. then, based on such a problem statement, all
 possible solutions can be evaluated to see which are optimal solutions to the problem. computer programs based on this paradigm
 try to represent in advance the space of problems and solutions for a well-defined type of design problem in an
@@ -31,7 +31,7 @@ they had not been included in the original problem statement. in this way, the s
 and concerns to be balanced would emerge and evolve as the planning process took place. in opposition to the then
 dominant methods of operations research which tried to compute optimal solutions from static and well-defined problem statements, rittel called for
 a model of planning as "an argumentative process in the course of which an image of the problem and of
-the solution emerges gradually among the participants, as a product of incessant iudgment, subiected to critical argument." (ibid, p.13) this
+the solution emerges gradually among the participants, as a product of incessant judgment, subiected to critical argument." (ibid, p.13) this
 is a very different model of the profession. in the operations research approach, it was assumed that problems could be
 formulated up front and that the dimensions of possible solutions could, at least in principle, also be enumerated once and
 for all. solving a planning or design problem then consisted in making that combination of choices among the given options
@@ -39,12 +39,12 @@ that maximized some objective quantitative measures of the criteria specified in
 of a solution be determined by the process of its discovery or by the individuals involved in formulating it. this
 was a model made for computerization. in fact, one might suspect that this model was influenced by the computer model
 in the first place: only those elements were accepted as scientific and objective which could be easily reduced to algorithmic
-processes. by contrast, rittel reiected the notion that even the underlying concepts in terms of which a problem or its
+processes. by contrast, rittel rejected the notion that even the underlying concepts in terms of which a problem or its
 solution could be formulated were objective in this sense. the language used in real, significant planning processes is itself the
 result of discussion and debate among various parties, each of whom uses subjective judgments to criticize hidden assumptions and to
 reconstrue implicit meanings of terms. no one view has a necessary priority; every view must be capable of standing up
 to critique by opposing views. solutions arise through this process of critique, in which new issues and possibilities can arise
-at any moment and new criteria can be introduced or old concerns reinterpreted, rather than worshipping some theoretical notion of
+at any moment and new criteria can be introduced or old concerns reinterpreted. rather than worshipping some theoretical notion of
 objectivity, rittel s approach recognizes that people s perspectives on problems are based in subjective conditions such as their individual
 value systems and political commitments or their personal roles vis a vis the proposed solutions: for wicked planning problems, there
 are no true or false answers. normally, many parties are equally equipped, interested and or entitled to judge the solutions,
