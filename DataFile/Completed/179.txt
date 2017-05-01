@@ -1,9 +1,9 @@
 curriculum. there are no ways for teachers to share their experiences. these problems can be overcome with centralized repositories of
 carefully structured curriculum and indexed resources. the repositories should support two-way communication, so that teachers can share their experiences using
 materials in the repositories and can "grow" the repositories. tca s profiler, explorer and versions components work together for information
-retrieval, the profiler helps teachers define perspectives for a particular classroom and locates curriculum and resources that match the perspective.
+retrieval the profiler helps teachers define perspectives for a particular classroom and locates curriculum and resources that match the perspective.
 the explorer displays these items and allows the teacher to search through them to find related items. the explorer uses
-an interface similar to the mac finder or winIs explorer to navigate across links between a Curriculum, its weekly units,
+an interface similar to the mac finder or win95 explorer to navigate across links between a Curriculum, its weekly units,
 their lesson plans and their individual resources. versions then helps the teacher select from alternative versions that have been adapted
 by other teachers. through these interfaces, teachers can locate the available materials that most closely match their personal needs; this
 makes it easier to customize the materials to classroom requirements. tca s planner, editor and networker components help the teacher
@@ -14,7 +14,7 @@ listed together where they can be rearranged or selectively deleted; their recom
 a guide; lists of required materials, prerequisites and preparation steps are compiled. in addition, a critiquing component displays suggestions and
 warnings within the plan. here, relevant inter-related information is gathered together in a display that can print out the teacher
 s familiar lesson plan. the editor allows the teacher to modify and adapt individual resources (texts, spreadsheets, drawings, quizzes, collections
-of web pointers}. this is a primary means for personalizing the curriculum. finally, the networker supports interactions with the internet,
+of web pointers). this is a primary means for personalizing the curriculum. finally, the networker supports interactions with the internet,
 providing a two-way medium of communication with a global community of teachers. using the networker, a teacher can share successfully
 customized versions of standard curriculum with other teachers who might have similar needs. the personalized learner s medium (plm) illustrates
 how several mechanisms can be used synergistically to transform generalized information in an educational digital library on the web into
