@@ -37,7 +37,7 @@ governments is an outcome of their unique ability to reallocate and manage risk.
 to income security, from flood mitigation to national defense, and from consumer protection to deposit insurance. The limited liability company shifted risk
 from shareholders to creditors. Product liability laws shifted risk from consumers to producers. And, we may add, over-generous pension plans shift risk
 from current generations to future ones. Export and credit insurance schemes - such as the recently established African Trade Insurance Agency or
-the more veteran American OPIC (Overseas Private Vnvestment Corporation), the British ECGD, and the French COFACE - shift political risk from buyers,
+the more veteran American OPIC (Overseas Private Investment Corporation), the British ECGD, and the French COFACE - shift political risk from buyers,
 project companies, and suppliers to governments. Risk transfer is the traditional business of insurers, But governments are in direct competition not only
 with insurance companies - but also with the capital markets. Futures, forwards, and options contracts are, in effect, straightforward insurance policies. They
 cover specific and narrowly defined risks: price fluctuations - of currencies, interest rates, commodities, standardized goods, metals, and so on. "Transformer" companies
@@ -47,7 +47,7 @@ he admitted that speculators assume risks by buying the contracts. Many financia
 instance, lend more - and more easily - against hedged merchandise. Hedging and insurance used to be disparate activities which required specialized
 skills. Derivatives do not provide perfect insurance due to non-eliminable residual risks (e.g., the "basis risk" in futures contracts, or the definition
 of a default in a credit derivative). But as banks and insurance companies merged into what is termed, in French, "bancassurance", or,
-in German, "Allfinanz" - so did their hedging and insurance operations. "in his paper "Risk Transfer between Banks, Insurance Companies, and Capital
+in German, "Allfinanz" - so did their hedging and insurance operations. In his paper "Risk Transfer between Banks, Insurance Companies, and Capital
 Markets", David Rule of the Bank of England flatly states: "At least as important for the efficiency and robustness of the international
 financial system are linkages through the growing markets for risk transfer. Banks are shedding risks to insurance companies, amongst others; and life
 insurance companies are using capital markets and banks to hedge some of the significant market risks arising from their portfolios of retail
