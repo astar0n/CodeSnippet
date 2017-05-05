@@ -3,7 +3,7 @@ carefully structured curriculum and indexed resources. the repositories should s
 materials in the repositories and can "grow" the repositories. tca s profiler, explorer and versions components work together for information
 retrieval the profiler helps teachers define perspectives for a particular classroom and locates curriculum and resources that match the perspective.
 the explorer displays these items and allows the teacher to search through them to find related items. the explorer uses
-an interface similar to the mac finder or win95 explorer to navigate across links between a Curriculum, its weekly units,
+an interface similar to the mac finder or win95 explorer to navigate across links between a curriculum, its weekly units,
 their lesson plans and their individual resources. versions then helps the teacher select from alternative versions that have been adapted
 by other teachers. through these interfaces, teachers can locate the available materials that most closely match their personal needs; this
 makes it easier to customize the materials to classroom requirements. tca s planner, editor and networker components help the teacher
